@@ -1,0 +1,11 @@
+how to run file 
+abhiraj:-
+environment conda create -n frauddetect python=3.10 -y
+
+
+conda activate frauddetect
+cd "C:\Users\lenovo\Downloads\collage projects\Credit-Card-Fraud-Detection-main"
+
+
+streamlit run app.py
+ ya jo bhi file name ho
