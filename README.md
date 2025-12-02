@@ -1,8 +1,5 @@
 # Credit Card Fraud Detection — Streamlit App + Scikit-learn
 
-🔗 **Live Demo:**  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-4ja3jvqvkfzxjjgzhqw9sa.streamlit.app/)
----
-
 ## Overview
 
 This project detects fraudulent credit card transactions using classical machine learning models trained on the **Kaggle Credit Card Fraud Detection dataset**.  
