@@ -4,7 +4,7 @@ environment conda create -n frauddetect python=3.10 -y
 
 
 conda activate frauddetect
-cd "C:\Users\lenovo\Downloads\collage projects\Credit-Card-Fraud-Detection-main"
+cd "C:\Users\lenovo\Abhiraj codes\Projectsss\CREDIT CARD PROJECTS\Credit-Card-Fraud-Detection-main"
 
 
 streamlit run app.py
