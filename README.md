@@ -1,12 +1,9 @@
-
 🚀 1. Project Overview
 
 Credit card fraud is extremely rare (only 0.173% of transactions in the dataset), making detection difficult using traditional methods.
 This project builds a machine learning model to classify transactions as:
 0 → Normal
-
 1 → Fraudulent
-
 
 The final solution includes a trained ML model + an interactive web interface for real-time predictions.
 
