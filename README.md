@@ -6,6 +6,8 @@ This project builds a machine learning model to classify transactions as:
 1 → Fraudulent
 
 The final solution includes a trained ML model + an interactive web interface for real-time predictions.
+## 🌐 Live Demo
+👉 https://abhirajkumarsingh-creditcardfrauddetection.streamlit.app/
 
 🧠 2. Dataset Information
 
